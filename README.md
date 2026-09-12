@@ -35,3 +35,7 @@ Product names, prices, ratings and reviews are demo catalog content. Supplement 
 
 ## Asset Notes
 Core storefront imagery is stored locally under `assets/images/`, so the site does not depend on remote image URLs for its main visual content.
+
+
+## V2 Visual Update
+Product cards and product detail pages now use clean, locally bundled product photography rather than screenshot-derived imagery. Featured products are intentionally varied across strength, cardio, weights, apparel, supplements, and accessories.
