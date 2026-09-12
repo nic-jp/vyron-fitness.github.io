@@ -1,0 +1,9 @@
+{
+  "name": "VYRON Fitness",
+  "short_name": "VYRON",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#070808",
+  "background_color": "#070808",
+  "icons": []
+}

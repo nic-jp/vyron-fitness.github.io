@@ -1,0 +1,2082 @@
+[
+  {
+    "id": 0,
+    "name": "VYRON Power Rack VR-1000",
+    "category": "Strength Equipment",
+    "price": 699.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON vyron power rack vr-1000 selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 120
+  },
+  {
+    "id": 1,
+    "name": "VYRON Half Rack HR-700",
+    "category": "Strength Equipment",
+    "price": 499.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON vyron half rack hr-700 selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 131
+  },
+  {
+    "id": 2,
+    "name": "VYRON Functional Trainer FT-900",
+    "category": "Strength Equipment",
+    "price": 1299.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON vyron functional trainer ft-900 selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 142
+  },
+  {
+    "id": 3,
+    "name": "Cable Crossover Station",
+    "category": "Strength Equipment",
+    "price": 1499.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON cable crossover station selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 153
+  },
+  {
+    "id": 4,
+    "name": "Smith Machine Pro",
+    "category": "Strength Equipment",
+    "price": 1899.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON smith machine pro selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 164
+  },
+  {
+    "id": 5,
+    "name": "Wall-Mount Folding Rack",
+    "category": "Strength Equipment",
+    "price": 399.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON wall-mount folding rack selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 175
+  },
+  {
+    "id": 6,
+    "name": "Olympic Squat Rack",
+    "category": "Strength Equipment",
+    "price": 459.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON olympic squat rack selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 186
+  },
+  {
+    "id": 7,
+    "name": "Dip & Pull-Up Station",
+    "category": "Strength Equipment",
+    "price": 299.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON dip & pull-up station selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 197
+  },
+  {
+    "id": 8,
+    "name": "Belt Squat Machine",
+    "category": "Strength Equipment",
+    "price": 1699.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON belt squat machine selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 208
+  },
+  {
+    "id": 9,
+    "name": "Landmine Training Station",
+    "category": "Strength Equipment",
+    "price": 149.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON landmine training station selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 219
+  },
+  {
+    "id": 10,
+    "name": "Power Cage Spotter Arms",
+    "category": "Strength Equipment",
+    "price": 179.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON power cage spotter arms selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 230
+  },
+  {
+    "id": 11,
+    "name": "Weight Plate Tree",
+    "category": "Strength Equipment",
+    "price": 89.99,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON weight plate tree selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 241
+  },
+  {
+    "id": 12,
+    "name": "VYRON Elite Treadmill VTR-500",
+    "category": "Cardio Machines",
+    "price": 999.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON vyron elite treadmill vtr-500 selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 252
+  },
+  {
+    "id": 13,
+    "name": "Commercial Treadmill T-1800",
+    "category": "Cardio Machines",
+    "price": 1699.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON commercial treadmill t-1800 selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 263
+  },
+  {
+    "id": 14,
+    "name": "Folding Home Treadmill",
+    "category": "Cardio Machines",
+    "price": 699.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON folding home treadmill selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 274
+  },
+  {
+    "id": 15,
+    "name": "Magnetic Rowing Machine",
+    "category": "Cardio Machines",
+    "price": 799.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON magnetic rowing machine selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 285
+  },
+  {
+    "id": 16,
+    "name": "Air Resistance Rower",
+    "category": "Cardio Machines",
+    "price": 999.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON air resistance rower selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 296
+  },
+  {
+    "id": 17,
+    "name": "Recumbent Exercise Bike",
+    "category": "Cardio Machines",
+    "price": 899.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON recumbent exercise bike selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 307
+  },
+  {
+    "id": 18,
+    "name": "Upright Training Bike",
+    "category": "Cardio Machines",
+    "price": 599.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON upright training bike selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 318
+  },
+  {
+    "id": 19,
+    "name": "Indoor Cycling Bike",
+    "category": "Cardio Machines",
+    "price": 749.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON indoor cycling bike selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 329
+  },
+  {
+    "id": 20,
+    "name": "Elliptical Trainer E-500",
+    "category": "Cardio Machines",
+    "price": 1199.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON elliptical trainer e-500 selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 340
+  },
+  {
+    "id": 21,
+    "name": "Compact Elliptical",
+    "category": "Cardio Machines",
+    "price": 699.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON compact elliptical selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 351
+  },
+  {
+    "id": 22,
+    "name": "Stair Climber S-400",
+    "category": "Cardio Machines",
+    "price": 1999.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON stair climber s-400 selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 362
+  },
+  {
+    "id": 23,
+    "name": "Assault Air Bike",
+    "category": "Cardio Machines",
+    "price": 899.99,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON assault air bike selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 373
+  },
+  {
+    "id": 24,
+    "name": "VYRON Adjustable Dumbbells 5\u201352.5 lb Pair",
+    "category": "Free Weights",
+    "price": 399.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON vyron adjustable dumbbells 5\u201352.5 lb pair selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 384
+  },
+  {
+    "id": 25,
+    "name": "Rubber Hex Dumbbell Set 5\u201350 lb",
+    "category": "Free Weights",
+    "price": 899.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON rubber hex dumbbell set 5\u201350 lb selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 395
+  },
+  {
+    "id": 26,
+    "name": "Cast Iron Kettlebell Set 5\u201340 lb",
+    "category": "Free Weights",
+    "price": 199.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON cast iron kettlebell set 5\u201340 lb selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 406
+  },
+  {
+    "id": 27,
+    "name": "Competition Kettlebell 24 kg",
+    "category": "Free Weights",
+    "price": 99.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON competition kettlebell 24 kg selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 417
+  },
+  {
+    "id": 28,
+    "name": "Olympic Barbell 45 lb",
+    "category": "Free Weights",
+    "price": 249.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON olympic barbell 45 lb selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 428
+  },
+  {
+    "id": 29,
+    "name": "Powerlifting Barbell 20 kg",
+    "category": "Free Weights",
+    "price": 319.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON powerlifting barbell 20 kg selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 439
+  },
+  {
+    "id": 30,
+    "name": "EZ Curl Bar",
+    "category": "Free Weights",
+    "price": 119.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON ez curl bar selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 450
+  },
+  {
+    "id": 31,
+    "name": "Bumper Plate Set 260 lb",
+    "category": "Free Weights",
+    "price": 549.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON bumper plate set 260 lb selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 461
+  },
+  {
+    "id": 32,
+    "name": "Olympic Weight Plate Set 300 lb",
+    "category": "Free Weights",
+    "price": 699.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON olympic weight plate set 300 lb selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 472
+  },
+  {
+    "id": 33,
+    "name": "Change Plate Set",
+    "category": "Free Weights",
+    "price": 129.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON change plate set selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 483
+  },
+  {
+    "id": 34,
+    "name": "Fractional Plate Set",
+    "category": "Free Weights",
+    "price": 89.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON fractional plate set selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 494
+  },
+  {
+    "id": 35,
+    "name": "Adjustable Weight Set",
+    "category": "Free Weights",
+    "price": 329.99,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON adjustable weight set selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 505
+  },
+  {
+    "id": 36,
+    "name": "VYRON Adjustable Bench VB-300",
+    "category": "Benches & Racks",
+    "price": 299.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON vyron adjustable bench vb-300 selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 516
+  },
+  {
+    "id": 37,
+    "name": "Commercial Flat Bench",
+    "category": "Benches & Racks",
+    "price": 249.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON commercial flat bench selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 527
+  },
+  {
+    "id": 38,
+    "name": "FID Utility Bench",
+    "category": "Benches & Racks",
+    "price": 379.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON fid utility bench selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 538
+  },
+  {
+    "id": 39,
+    "name": "Olympic Weight Bench",
+    "category": "Benches & Racks",
+    "price": 449.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON olympic weight bench selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 549
+  },
+  {
+    "id": 40,
+    "name": "Preacher Curl Bench",
+    "category": "Benches & Racks",
+    "price": 329.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON preacher curl bench selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 560
+  },
+  {
+    "id": 41,
+    "name": "Ab Bench",
+    "category": "Benches & Racks",
+    "price": 229.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON ab bench selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 571
+  },
+  {
+    "id": 42,
+    "name": "Vertical Dumbbell Rack",
+    "category": "Benches & Racks",
+    "price": 199.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON vertical dumbbell rack selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 582
+  },
+  {
+    "id": 43,
+    "name": "Horizontal Barbell Rack",
+    "category": "Benches & Racks",
+    "price": 149.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON horizontal barbell rack selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 593
+  },
+  {
+    "id": 44,
+    "name": "Kettlebell Rack",
+    "category": "Benches & Racks",
+    "price": 179.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON kettlebell rack selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 604
+  },
+  {
+    "id": 45,
+    "name": "Wall-Mount Plate Storage",
+    "category": "Benches & Racks",
+    "price": 119.99,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON wall-mount plate storage selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 615
+  },
+  {
+    "id": 46,
+    "name": "Leg Press Machine",
+    "category": "Machines",
+    "price": 1799.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON leg press machine selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 626
+  },
+  {
+    "id": 47,
+    "name": "Hack Squat Machine",
+    "category": "Machines",
+    "price": 1999.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON hack squat machine selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 637
+  },
+  {
+    "id": 48,
+    "name": "Leg Extension & Curl",
+    "category": "Machines",
+    "price": 1599.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON leg extension & curl selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 648
+  },
+  {
+    "id": 49,
+    "name": "Chest Press Machine",
+    "category": "Machines",
+    "price": 1399.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON chest press machine selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 659
+  },
+  {
+    "id": 50,
+    "name": "Shoulder Press Machine",
+    "category": "Machines",
+    "price": 1499.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON shoulder press machine selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 670
+  },
+  {
+    "id": 51,
+    "name": "Lat Pulldown Machine",
+    "category": "Machines",
+    "price": 1199.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON lat pulldown machine selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 681
+  },
+  {
+    "id": 52,
+    "name": "Seated Row Machine",
+    "category": "Machines",
+    "price": 1299.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON seated row machine selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 692
+  },
+  {
+    "id": 53,
+    "name": "Biceps Curl Machine",
+    "category": "Machines",
+    "price": 1099.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON biceps curl machine selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 703
+  },
+  {
+    "id": 54,
+    "name": "Glute Drive Machine",
+    "category": "Machines",
+    "price": 1899.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON glute drive machine selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 714
+  },
+  {
+    "id": 55,
+    "name": "Calf Raise Machine",
+    "category": "Machines",
+    "price": 999.99,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON calf raise machine selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 725
+  },
+  {
+    "id": 56,
+    "name": "VYRON Premium Lifting Straps",
+    "category": "Accessories",
+    "price": 24.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON vyron premium lifting straps selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 736
+  },
+  {
+    "id": 57,
+    "name": "Weightlifting Belt - Leather",
+    "category": "Accessories",
+    "price": 69.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON weightlifting belt - leather selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 747
+  },
+  {
+    "id": 58,
+    "name": "Nylon Training Belt",
+    "category": "Accessories",
+    "price": 39.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON nylon training belt selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 758
+  },
+  {
+    "id": 59,
+    "name": "Figure-8 Lifting Straps",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON figure-8 lifting straps selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 769
+  },
+  {
+    "id": 60,
+    "name": "Wrist Wraps Pro",
+    "category": "Accessories",
+    "price": 24.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON wrist wraps pro selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 780
+  },
+  {
+    "id": 61,
+    "name": "Knee Sleeves 7mm",
+    "category": "Accessories",
+    "price": 49.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON knee sleeves 7mm selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 791
+  },
+  {
+    "id": 62,
+    "name": "Elbow Sleeves",
+    "category": "Accessories",
+    "price": 39.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON elbow sleeves selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 802
+  },
+  {
+    "id": 63,
+    "name": "Gym Duffle Bag",
+    "category": "Accessories",
+    "price": 69.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON gym duffle bag selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 813
+  },
+  {
+    "id": 64,
+    "name": "Training Gloves",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON training gloves selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 824
+  },
+  {
+    "id": 65,
+    "name": "Barbell Pad",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON barbell pad selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 835
+  },
+  {
+    "id": 66,
+    "name": "Pull-Up Grips",
+    "category": "Accessories",
+    "price": 34.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON pull-up grips selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 846
+  },
+  {
+    "id": 67,
+    "name": "Doorway Pull-Up Bar",
+    "category": "Accessories",
+    "price": 49.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON doorway pull-up bar selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 857
+  },
+  {
+    "id": 68,
+    "name": "Speed Rope",
+    "category": "Accessories",
+    "price": 19.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON speed rope selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 868
+  },
+  {
+    "id": 69,
+    "name": "Jump Rope Pro",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON jump rope pro selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 879
+  },
+  {
+    "id": 70,
+    "name": "VYRON Performance Hoodie - Men's",
+    "category": "Apparel",
+    "price": 59.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron performance hoodie - men's selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 890
+  },
+  {
+    "id": 71,
+    "name": "VYRON Performance Tee - Men's",
+    "category": "Apparel",
+    "price": 29.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron performance tee - men's selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 901
+  },
+  {
+    "id": 72,
+    "name": "VYRON Training Tank - Men's",
+    "category": "Apparel",
+    "price": 27.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron training tank - men's selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 912
+  },
+  {
+    "id": 73,
+    "name": "VYRON Compression Shirt - Men's",
+    "category": "Apparel",
+    "price": 39.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron compression shirt - men's selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 923
+  },
+  {
+    "id": 74,
+    "name": "VYRON Training Shorts - Men's",
+    "category": "Apparel",
+    "price": 34.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron training shorts - men's selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 934
+  },
+  {
+    "id": 75,
+    "name": "VYRON Joggers - Men's",
+    "category": "Apparel",
+    "price": 54.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron joggers - men's selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 945
+  },
+  {
+    "id": 76,
+    "name": "VYRON Performance Leggings - Women's",
+    "category": "Apparel",
+    "price": 49.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron performance leggings - women's selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 956
+  },
+  {
+    "id": 77,
+    "name": "VYRON Training Top - Women's",
+    "category": "Apparel",
+    "price": 34.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron training top - women's selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 967
+  },
+  {
+    "id": 78,
+    "name": "VYRON Sports Bra - Women's",
+    "category": "Apparel",
+    "price": 39.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron sports bra - women's selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 978
+  },
+  {
+    "id": 79,
+    "name": "VYRON Training Shorts - Women's",
+    "category": "Apparel",
+    "price": 34.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron training shorts - women's selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 989
+  },
+  {
+    "id": 80,
+    "name": "VYRON Zip Jacket",
+    "category": "Apparel",
+    "price": 69.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron zip jacket selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1000
+  },
+  {
+    "id": 81,
+    "name": "VYRON Performance Cap",
+    "category": "Apparel",
+    "price": 24.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron performance cap selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1011
+  },
+  {
+    "id": 82,
+    "name": "VYRON Training Socks 3-Pack",
+    "category": "Apparel",
+    "price": 19.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron training socks 3-pack selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1022
+  },
+  {
+    "id": 83,
+    "name": "VYRON Gym Bag",
+    "category": "Apparel",
+    "price": 59.99,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron gym bag selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1033
+  },
+  {
+    "id": 84,
+    "name": "VYRON Whey Protein - Chocolate 5 lb",
+    "category": "Supplements",
+    "price": 59.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Whey Protein - Chocolate 5 lb. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.9,
+    "reviews": 1044
+  },
+  {
+    "id": 85,
+    "name": "VYRON Whey Protein - Vanilla 5 lb",
+    "category": "Supplements",
+    "price": 59.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Whey Protein - Vanilla 5 lb. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.5,
+    "reviews": 1055
+  },
+  {
+    "id": 86,
+    "name": "VYRON Whey Protein - Strawberry 5 lb",
+    "category": "Supplements",
+    "price": 59.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Whey Protein - Strawberry 5 lb. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.6,
+    "reviews": 1066
+  },
+  {
+    "id": 87,
+    "name": "VYRON Plant Protein - Chocolate 2 lb",
+    "category": "Supplements",
+    "price": 44.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Plant Protein - Chocolate 2 lb. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.7,
+    "reviews": 1077
+  },
+  {
+    "id": 88,
+    "name": "VYRON Plant Protein - Vanilla 2 lb",
+    "category": "Supplements",
+    "price": 44.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Plant Protein - Vanilla 2 lb. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.8,
+    "reviews": 1088
+  },
+  {
+    "id": 89,
+    "name": "VYRON Creatine Monohydrate 500 g",
+    "category": "Supplements",
+    "price": 39.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Creatine Monohydrate 500 g. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.9,
+    "reviews": 1099
+  },
+  {
+    "id": 90,
+    "name": "VYRON Electrolyte Drink Mix",
+    "category": "Supplements",
+    "price": 29.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Electrolyte Drink Mix. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.5,
+    "reviews": 1110
+  },
+  {
+    "id": 91,
+    "name": "VYRON Pre-Workout Blend",
+    "category": "Supplements",
+    "price": 39.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Pre-Workout Blend. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.6,
+    "reviews": 1121
+  },
+  {
+    "id": 92,
+    "name": "VYRON Recovery Drink Mix",
+    "category": "Supplements",
+    "price": 34.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Recovery Drink Mix. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.7,
+    "reviews": 1132
+  },
+  {
+    "id": 93,
+    "name": "VYRON Protein Shaker Bottle",
+    "category": "Supplements",
+    "price": 19.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Protein Shaker Bottle. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.8,
+    "reviews": 1143
+  },
+  {
+    "id": 94,
+    "name": "VYRON Protein Sample Pack",
+    "category": "Supplements",
+    "price": 24.99,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Protein Sample Pack. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.9,
+    "reviews": 1154
+  },
+  {
+    "id": 95,
+    "name": "VYRON Foam Roller",
+    "category": "Recovery",
+    "price": 29.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON vyron foam roller selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1165
+  },
+  {
+    "id": 96,
+    "name": "High-Density Foam Roller",
+    "category": "Recovery",
+    "price": 39.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON high-density foam roller selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1176
+  },
+  {
+    "id": 97,
+    "name": "Massage Ball Set",
+    "category": "Recovery",
+    "price": 24.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON massage ball set selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1187
+  },
+  {
+    "id": 98,
+    "name": "Percussion Massage Device",
+    "category": "Recovery",
+    "price": 149.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON percussion massage device selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1198
+  },
+  {
+    "id": 99,
+    "name": "Mobility Stretch Strap",
+    "category": "Recovery",
+    "price": 19.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON mobility stretch strap selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 1209
+  },
+  {
+    "id": 100,
+    "name": "Yoga Recovery Mat",
+    "category": "Recovery",
+    "price": 49.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON yoga recovery mat selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1220
+  },
+  {
+    "id": 101,
+    "name": "Resistance Recovery Band Set",
+    "category": "Recovery",
+    "price": 34.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON resistance recovery band set selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1231
+  },
+  {
+    "id": 102,
+    "name": "Cold Therapy Sleeve",
+    "category": "Recovery",
+    "price": 39.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON cold therapy sleeve selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1242
+  },
+  {
+    "id": 103,
+    "name": "Recovery Leg Compression Sleeves",
+    "category": "Recovery",
+    "price": 89.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON recovery leg compression sleeves selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1253
+  },
+  {
+    "id": 104,
+    "name": "Portable Massage Stick",
+    "category": "Recovery",
+    "price": 24.99,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON portable massage stick selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 1264
+  },
+  {
+    "id": 105,
+    "name": "VYRON Complete Home Gym Package",
+    "category": "Home Gym",
+    "price": 2499.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON vyron complete home gym package selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1275
+  },
+  {
+    "id": 106,
+    "name": "Garage Gym Starter Package",
+    "category": "Home Gym",
+    "price": 1499.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON garage gym starter package selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1286
+  },
+  {
+    "id": 107,
+    "name": "Apartment Strength Package",
+    "category": "Home Gym",
+    "price": 899.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON apartment strength package selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1297
+  },
+  {
+    "id": 108,
+    "name": "Compact Cardio Package",
+    "category": "Home Gym",
+    "price": 1299.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON compact cardio package selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1308
+  },
+  {
+    "id": 109,
+    "name": "Functional Training Package",
+    "category": "Home Gym",
+    "price": 799.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON functional training package selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 1319
+  },
+  {
+    "id": 110,
+    "name": "Dumbbell & Bench Package",
+    "category": "Home Gym",
+    "price": 699.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON dumbbell & bench package selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1330
+  },
+  {
+    "id": 111,
+    "name": "Power Rack Training Package",
+    "category": "Home Gym",
+    "price": 1299.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON power rack training package selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1341
+  },
+  {
+    "id": 112,
+    "name": "Home Cable Gym",
+    "category": "Home Gym",
+    "price": 1799.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON home cable gym selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1352
+  },
+  {
+    "id": 113,
+    "name": "Home Gym Storage Package",
+    "category": "Home Gym",
+    "price": 499.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON home gym storage package selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1363
+  },
+  {
+    "id": 114,
+    "name": "3/8\" Rubber Gym Tiles - 10 Pack",
+    "category": "Gym Flooring",
+    "price": 149.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON 3/8\" rubber gym tiles - 10 pack selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 1374
+  },
+  {
+    "id": 115,
+    "name": "1/2\" Heavy Duty Rubber Roll",
+    "category": "Gym Flooring",
+    "price": 299.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON 1/2\" heavy duty rubber roll selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1385
+  },
+  {
+    "id": 116,
+    "name": "Interlocking EVA Floor Tiles",
+    "category": "Gym Flooring",
+    "price": 89.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON interlocking eva floor tiles selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1396
+  },
+  {
+    "id": 117,
+    "name": "Weightlifting Platform",
+    "category": "Gym Flooring",
+    "price": 499.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON weightlifting platform selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1407
+  },
+  {
+    "id": 118,
+    "name": "Deadlift Platform Mat",
+    "category": "Gym Flooring",
+    "price": 199.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON deadlift platform mat selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1418
+  },
+  {
+    "id": 119,
+    "name": "Rubber Runner Mat 4ft x 10ft",
+    "category": "Gym Flooring",
+    "price": 129.99,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON rubber runner mat 4ft x 10ft selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 1429
+  },
+  {
+    "id": 120,
+    "name": "Heavy Bag 100 lb",
+    "category": "Boxing & Combat",
+    "price": 199.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON heavy bag 100 lb selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1440
+  },
+  {
+    "id": 121,
+    "name": "Freestanding Punch Bag",
+    "category": "Boxing & Combat",
+    "price": 299.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON freestanding punch bag selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1451
+  },
+  {
+    "id": 122,
+    "name": "Boxing Gloves 14 oz",
+    "category": "Boxing & Combat",
+    "price": 49.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON boxing gloves 14 oz selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1462
+  },
+  {
+    "id": 123,
+    "name": "Training Hand Wraps",
+    "category": "Boxing & Combat",
+    "price": 14.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON training hand wraps selected for training spaces and performance-focused routines.",
+    "rating": 4.8,
+    "reviews": 1473
+  },
+  {
+    "id": 124,
+    "name": "Focus Mitt Pair",
+    "category": "Boxing & Combat",
+    "price": 49.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON focus mitt pair selected for training spaces and performance-focused routines.",
+    "rating": 4.9,
+    "reviews": 1484
+  },
+  {
+    "id": 125,
+    "name": "Speed Bag",
+    "category": "Boxing & Combat",
+    "price": 79.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON speed bag selected for training spaces and performance-focused routines.",
+    "rating": 4.5,
+    "reviews": 1495
+  },
+  {
+    "id": 126,
+    "name": "Boxing Reflex Ball",
+    "category": "Boxing & Combat",
+    "price": 24.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON boxing reflex ball selected for training spaces and performance-focused routines.",
+    "rating": 4.6,
+    "reviews": 1506
+  },
+  {
+    "id": 127,
+    "name": "MMA Training Gloves",
+    "category": "Boxing & Combat",
+    "price": 44.99,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON mma training gloves selected for training spaces and performance-focused routines.",
+    "rating": 4.7,
+    "reviews": 1517
+  },
+  {
+    "id": 128,
+    "name": "Multi-Grip Pull-Up Bar",
+    "category": "Strength Equipment",
+    "price": 49,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON multi-grip pull-up bar for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 976
+  },
+  {
+    "id": 129,
+    "name": "Safety Squat Bar",
+    "category": "Strength Equipment",
+    "price": 86,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON safety squat bar for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 983
+  },
+  {
+    "id": 130,
+    "name": "Cambered Bar",
+    "category": "Strength Equipment",
+    "price": 123,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON cambered bar for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 990
+  },
+  {
+    "id": 131,
+    "name": "Trap Bar",
+    "category": "Strength Equipment",
+    "price": 160,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON trap bar for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 997
+  },
+  {
+    "id": 132,
+    "name": "Adjustable Cable Pulley",
+    "category": "Strength Equipment",
+    "price": 197,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON adjustable cable pulley for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1004
+  },
+  {
+    "id": 133,
+    "name": "Vertical Leg Press",
+    "category": "Strength Equipment",
+    "price": 234,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON vertical leg press for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1011
+  },
+  {
+    "id": 134,
+    "name": "Belt Squat Attachment",
+    "category": "Strength Equipment",
+    "price": 271,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON belt squat attachment for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1018
+  },
+  {
+    "id": 135,
+    "name": "Gymnastic Rings",
+    "category": "Strength Equipment",
+    "price": 308,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON gymnastic rings for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1025
+  },
+  {
+    "id": 136,
+    "name": "Dip Belt",
+    "category": "Strength Equipment",
+    "price": 345,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON dip belt for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1032
+  },
+  {
+    "id": 137,
+    "name": "Core Trainer Station",
+    "category": "Strength Equipment",
+    "price": 382,
+    "image": "assets/images/cat-strength.jpg",
+    "description": "VYRON core trainer station for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1039
+  },
+  {
+    "id": 138,
+    "name": "Under-Desk Walking Pad",
+    "category": "Cardio Machines",
+    "price": 199,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON under-desk walking pad for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1046
+  },
+  {
+    "id": 139,
+    "name": "Curved Manual Treadmill",
+    "category": "Cardio Machines",
+    "price": 236,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON curved manual treadmill for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1053
+  },
+  {
+    "id": 140,
+    "name": "Spin Bike Pro",
+    "category": "Cardio Machines",
+    "price": 273,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON spin bike pro for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1060
+  },
+  {
+    "id": 141,
+    "name": "Mini Stepper",
+    "category": "Cardio Machines",
+    "price": 310,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON mini stepper for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1067
+  },
+  {
+    "id": 142,
+    "name": "Recumbent Cross Trainer",
+    "category": "Cardio Machines",
+    "price": 347,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON recumbent cross trainer for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1074
+  },
+  {
+    "id": 143,
+    "name": "Ski Erg Trainer",
+    "category": "Cardio Machines",
+    "price": 384,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON ski erg trainer for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1081
+  },
+  {
+    "id": 144,
+    "name": "Compact Air Rower",
+    "category": "Cardio Machines",
+    "price": 421,
+    "image": "assets/images/cat-cardio.jpg",
+    "description": "VYRON compact air rower for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1088
+  },
+  {
+    "id": 145,
+    "name": "Neoprene Dumbbell Pair 3 lb",
+    "category": "Free Weights",
+    "price": 19,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON neoprene dumbbell pair 3 lb for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1095
+  },
+  {
+    "id": 146,
+    "name": "Neoprene Dumbbell Pair 5 lb",
+    "category": "Free Weights",
+    "price": 56,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON neoprene dumbbell pair 5 lb for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1102
+  },
+  {
+    "id": 147,
+    "name": "Neoprene Dumbbell Pair 10 lb",
+    "category": "Free Weights",
+    "price": 93,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON neoprene dumbbell pair 10 lb for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1109
+  },
+  {
+    "id": 148,
+    "name": "Competition Bumper Plate 25 lb",
+    "category": "Free Weights",
+    "price": 130,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON competition bumper plate 25 lb for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1116
+  },
+  {
+    "id": 149,
+    "name": "Competition Bumper Plate 45 lb",
+    "category": "Free Weights",
+    "price": 167,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON competition bumper plate 45 lb for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1123
+  },
+  {
+    "id": 150,
+    "name": "Technique Bar 15 lb",
+    "category": "Free Weights",
+    "price": 204,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON technique bar 15 lb for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1130
+  },
+  {
+    "id": 151,
+    "name": "Safety Collars Pair",
+    "category": "Free Weights",
+    "price": 241,
+    "image": "assets/images/cat-weights.jpg",
+    "description": "VYRON safety collars pair for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1137
+  },
+  {
+    "id": 152,
+    "name": "Foldable Flat Bench",
+    "category": "Benches & Racks",
+    "price": 79,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON foldable flat bench for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1144
+  },
+  {
+    "id": 153,
+    "name": "Adjustable Preacher Bench",
+    "category": "Benches & Racks",
+    "price": 116,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON adjustable preacher bench for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1151
+  },
+  {
+    "id": 154,
+    "name": "Vertical Barbell Holder",
+    "category": "Benches & Racks",
+    "price": 153,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON vertical barbell holder for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1158
+  },
+  {
+    "id": 155,
+    "name": "Wall-Mount Dumbbell Rack",
+    "category": "Benches & Racks",
+    "price": 190,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON wall-mount dumbbell rack for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1165
+  },
+  {
+    "id": 156,
+    "name": "3-Tier Storage Rack",
+    "category": "Benches & Racks",
+    "price": 227,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON 3-tier storage rack for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1172
+  },
+  {
+    "id": 157,
+    "name": "Plate Loading Rack",
+    "category": "Benches & Racks",
+    "price": 264,
+    "image": "assets/images/cat-benches.jpg",
+    "description": "VYRON plate loading rack for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1179
+  },
+  {
+    "id": 158,
+    "name": "Assisted Pull-Up Machine",
+    "category": "Machines",
+    "price": 599,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON assisted pull-up machine for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1186
+  },
+  {
+    "id": 159,
+    "name": "Rear Delt Fly Machine",
+    "category": "Machines",
+    "price": 636,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON rear delt fly machine for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1193
+  },
+  {
+    "id": 160,
+    "name": "Pec Deck Machine",
+    "category": "Machines",
+    "price": 673,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON pec deck machine for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1200
+  },
+  {
+    "id": 161,
+    "name": "Hip Abduction Machine",
+    "category": "Machines",
+    "price": 710,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON hip abduction machine for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1207
+  },
+  {
+    "id": 162,
+    "name": "Hip Adduction Machine",
+    "category": "Machines",
+    "price": 747,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON hip adduction machine for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1214
+  },
+  {
+    "id": 163,
+    "name": "Cable Tricep Station",
+    "category": "Machines",
+    "price": 784,
+    "image": "assets/images/cat-machines.jpg",
+    "description": "VYRON cable tricep station for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1221
+  },
+  {
+    "id": 164,
+    "name": "Lifting Chalk",
+    "category": "Accessories",
+    "price": 9,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON lifting chalk for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1228
+  },
+  {
+    "id": 165,
+    "name": "Liquid Chalk",
+    "category": "Accessories",
+    "price": 46,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON liquid chalk for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1235
+  },
+  {
+    "id": 166,
+    "name": "Wrist Roller",
+    "category": "Accessories",
+    "price": 83,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON wrist roller for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1242
+  },
+  {
+    "id": 167,
+    "name": "Grip Strengthener Set",
+    "category": "Accessories",
+    "price": 120,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON grip strengthener set for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1249
+  },
+  {
+    "id": 168,
+    "name": "Ankle Strap",
+    "category": "Accessories",
+    "price": 16,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON ankle strap for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1256
+  },
+  {
+    "id": 169,
+    "name": "Lat Pulldown Bar",
+    "category": "Accessories",
+    "price": 53,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON lat pulldown bar for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1263
+  },
+  {
+    "id": 170,
+    "name": "Straight Cable Bar",
+    "category": "Accessories",
+    "price": 90,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON straight cable bar for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1270
+  },
+  {
+    "id": 171,
+    "name": "V-Bar Handle",
+    "category": "Accessories",
+    "price": 127,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON v-bar handle for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1277
+  },
+  {
+    "id": 172,
+    "name": "Rope Tricep Handle",
+    "category": "Accessories",
+    "price": 23,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON rope tricep handle for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1284
+  },
+  {
+    "id": 173,
+    "name": "Gym Towel",
+    "category": "Accessories",
+    "price": 60,
+    "image": "assets/images/cat-accessories.jpg",
+    "description": "VYRON gym towel for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1291
+  },
+  {
+    "id": 174,
+    "name": "VYRON Oversized Tee",
+    "category": "Apparel",
+    "price": 19,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron oversized tee for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1298
+  },
+  {
+    "id": 175,
+    "name": "VYRON Long Sleeve Training Top",
+    "category": "Apparel",
+    "price": 56,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron long sleeve training top for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1305
+  },
+  {
+    "id": 176,
+    "name": "VYRON Compression Leggings",
+    "category": "Apparel",
+    "price": 32,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron compression leggings for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1312
+  },
+  {
+    "id": 177,
+    "name": "VYRON Windbreaker",
+    "category": "Apparel",
+    "price": 69,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron windbreaker for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1319
+  },
+  {
+    "id": 178,
+    "name": "VYRON Mesh Shorts",
+    "category": "Apparel",
+    "price": 45,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron mesh shorts for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1326
+  },
+  {
+    "id": 179,
+    "name": "VYRON Recovery Joggers",
+    "category": "Apparel",
+    "price": 21,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron recovery joggers for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1333
+  },
+  {
+    "id": 180,
+    "name": "VYRON Performance Socks",
+    "category": "Apparel",
+    "price": 58,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron performance socks for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1340
+  },
+  {
+    "id": 181,
+    "name": "VYRON Beanie",
+    "category": "Apparel",
+    "price": 34,
+    "image": "assets/images/cat-apparel.jpg",
+    "description": "VYRON vyron beanie for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1347
+  },
+  {
+    "id": 182,
+    "name": "VYRON Collagen Support Blend",
+    "category": "Supplements",
+    "price": 19,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Collagen Support Blend. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.7,
+    "reviews": 1354
+  },
+  {
+    "id": 183,
+    "name": "VYRON Protein Bar Variety Pack",
+    "category": "Supplements",
+    "price": 56,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Protein Bar Variety Pack. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.8,
+    "reviews": 1361
+  },
+  {
+    "id": 184,
+    "name": "VYRON Hydration Tablets",
+    "category": "Supplements",
+    "price": 42,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Hydration Tablets. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.9,
+    "reviews": 1368
+  },
+  {
+    "id": 185,
+    "name": "VYRON Instant Oat Shake Mix",
+    "category": "Supplements",
+    "price": 28,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Instant Oat Shake Mix. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.5,
+    "reviews": 1375
+  },
+  {
+    "id": 186,
+    "name": "VYRON Protein Pancake Mix",
+    "category": "Supplements",
+    "price": 65,
+    "image": "assets/images/cat-supplements.jpg",
+    "description": "Demo catalog item: VYRON Protein Pancake Mix. Review ingredients, serving information, and suitability before use.",
+    "rating": 4.6,
+    "reviews": 1382
+  },
+  {
+    "id": 187,
+    "name": "Trigger Point Cane",
+    "category": "Recovery",
+    "price": 14,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON trigger point cane for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1389
+  },
+  {
+    "id": 188,
+    "name": "Stretching Loop Set",
+    "category": "Recovery",
+    "price": 51,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON stretching loop set for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1396
+  },
+  {
+    "id": 189,
+    "name": "Balance & Mobility Board",
+    "category": "Recovery",
+    "price": 88,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON balance & mobility board for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1403
+  },
+  {
+    "id": 190,
+    "name": "Mini Foam Roller",
+    "category": "Recovery",
+    "price": 125,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON mini foam roller for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1410
+  },
+  {
+    "id": 191,
+    "name": "Massage Peanut Ball",
+    "category": "Recovery",
+    "price": 26,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON massage peanut ball for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1417
+  },
+  {
+    "id": 192,
+    "name": "Recovery Mat",
+    "category": "Recovery",
+    "price": 63,
+    "image": "assets/images/cat-recovery.jpg",
+    "description": "VYRON recovery mat for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1424
+  },
+  {
+    "id": 193,
+    "name": "Budget Home Gym Bundle",
+    "category": "Home Gym",
+    "price": 599,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON budget home gym bundle for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1431
+  },
+  {
+    "id": 194,
+    "name": "Small Space Home Gym Bundle",
+    "category": "Home Gym",
+    "price": 636,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON small space home gym bundle for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1438
+  },
+  {
+    "id": 195,
+    "name": "Garage Strength Bundle",
+    "category": "Home Gym",
+    "price": 673,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON garage strength bundle for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1445
+  },
+  {
+    "id": 196,
+    "name": "Family Fitness Bundle",
+    "category": "Home Gym",
+    "price": 710,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON family fitness bundle for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1452
+  },
+  {
+    "id": 197,
+    "name": "8mm Rubber Tile Pack",
+    "category": "Gym Flooring",
+    "price": 49,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON 8mm rubber tile pack for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1459
+  },
+  {
+    "id": 198,
+    "name": "12mm Rubber Tile Pack",
+    "category": "Gym Flooring",
+    "price": 86,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON 12mm rubber tile pack for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1466
+  },
+  {
+    "id": 199,
+    "name": "Interlocking Rubber Mat",
+    "category": "Gym Flooring",
+    "price": 123,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON interlocking rubber mat for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1473
+  },
+  {
+    "id": 200,
+    "name": "Platform Border Ramp",
+    "category": "Gym Flooring",
+    "price": 160,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON platform border ramp for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1480
+  },
+  {
+    "id": 201,
+    "name": "Floor Tape Roll",
+    "category": "Gym Flooring",
+    "price": 197,
+    "image": "assets/images/cat-home-gym.jpg",
+    "description": "VYRON floor tape roll for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1487
+  },
+  {
+    "id": 202,
+    "name": "MMA Heavy Bag",
+    "category": "Boxing & Combat",
+    "price": 19,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON mma heavy bag for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1494
+  },
+  {
+    "id": 203,
+    "name": "Boxing Headgear",
+    "category": "Boxing & Combat",
+    "price": 56,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON boxing headgear for training and gym setup needs.",
+    "rating": 4.8,
+    "reviews": 1501
+  },
+  {
+    "id": 204,
+    "name": "Shin Guards",
+    "category": "Boxing & Combat",
+    "price": 93,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON shin guards for training and gym setup needs.",
+    "rating": 4.9,
+    "reviews": 1508
+  },
+  {
+    "id": 205,
+    "name": "Mouthguard Case",
+    "category": "Boxing & Combat",
+    "price": 130,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON mouthguard case for training and gym setup needs.",
+    "rating": 4.5,
+    "reviews": 1515
+  },
+  {
+    "id": 206,
+    "name": "Speed Rope Boxing Edition",
+    "category": "Boxing & Combat",
+    "price": 167,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON speed rope boxing edition for training and gym setup needs.",
+    "rating": 4.6,
+    "reviews": 1522
+  },
+  {
+    "id": 207,
+    "name": "Heavy Bag Wall Mount",
+    "category": "Boxing & Combat",
+    "price": 204,
+    "image": "assets/images/cat-boxing.jpg",
+    "description": "VYRON heavy bag wall mount for training and gym setup needs.",
+    "rating": 4.7,
+    "reviews": 1529
+  }
+]
